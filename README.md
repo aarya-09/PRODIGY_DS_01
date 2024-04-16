@@ -1,5 +1,6 @@
 # PRODIGY_DS_01
 This is my first task with Prodigy Infotech where I was supposed to create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population. 
+DATA SET USED: https://www.canva.com/link?target=https%3A%2F%2Fdata.worldbank.org%2Findicator%2FSP.POP.TOTL&design=DAFpRxy47kU&accessRole=viewer&linkSource=document
 ### BASIC LAYOUT
 The initial part of this project was to import necesssary libraries,check if the data is getting printed in the console with the necessary functions.Once it was executed, my next step was to select a continuous variable to sort the data.Since age and genders were not specified in data,I decided to take years as continuous variable.Once decided with it,my next step was to sort the data for most populated countries and least populated countries. In the beginning I did it separately and it worked as well but to create a better accessibility for the viewers to visualize the data for most & less populated countries in 2022 & 2020, I tried the subplot function to create a better layout.
 ### CHECKING THE DATA PRINTED IN CONSOLE.
